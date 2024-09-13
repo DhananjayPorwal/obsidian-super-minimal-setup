@@ -1,0 +1,24 @@
+{
+  "languages": [
+    "bash",
+    "c",
+    "cpp",
+    "css",
+    "diff",
+    "ruby",
+    "go",
+    "javascript",
+    "kotlin",
+    "lua",
+    "makefile",
+    "perl",
+    "php",
+    "plaintext",
+    "python",
+    "r",
+    "shell",
+    "sql",
+    "yaml",
+    "vbnet"
+  ]
+}

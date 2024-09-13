@@ -1,0 +1,30 @@
+{
+  "accentColor": "#4b5ed8",
+  "theme": "system",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "kanbanBackground",
+    "customWidth",
+    "Iterative Rainbow Folder Titles",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "scroll-slides",
+    "notion-cards",
+    "custom-icon",
+    "custom-admonitions.1e1ff4",
+    "dotted-top-bottom-callout",
+    "dropdown-menu-callout",
+    "kanbanBack",
+    "file-exploror-tab-hider"
+  ],
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "nativeMenus": true,
+  "textFontFamily": "",
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": ""
+}

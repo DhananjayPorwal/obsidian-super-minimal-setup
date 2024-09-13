@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5c1e7e7e2614379b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3a7f32cd518ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79e0d48d0bc8a19",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo's.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff1a784143837a41",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b75e74cbcd2c867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8f3007e924ee8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c0236ab6aaecd96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5206698b17ac84e9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "486d584fe075a4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae5e2fcf9d19446",
+        "type": "tabs",
+        "dimension": 37.85091965150048,
+        "children": [
+          {
+            "id": "cc133445f5484176",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79d69bacde0fe7c4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "71525abf6fa1ab16",
+        "type": "tabs",
+        "dimension": 39.10939012584705,
+        "children": [
+          {
+            "id": "f3908b1433c674e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ToDo's.md"
+              }
+            }
+          },
+          {
+            "id": "137e46b10abd9724",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ToDo's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fcc1c8cb4c848a3",
+        "type": "tabs",
+        "dimension": 23.039690222652467,
+        "children": [
+          {
+            "id": "3bf151a81b9e1f8a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ToDo's.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.258838656218163,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "3edfc10aee1aaa6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a79e0d48d0bc8a19",
+  "lastOpenFiles": [
+    "ToDo's.md",
+    "Task Goals.md",
+    "Movies/Guardians of the Galaxy Vol. 3.md",
+    "Movies/Aruvam.md",
+    "Life Knowledge/Operating System.md",
+    "Diary/Daily/2023-05-05.md",
+    "Home.md",
+    "Database/Database.md",
+    "Diary/Diary.md",
+    "Database/Movie Library.md",
+    "Movies/Godfather.md",
+    "Life Knowledge/Ultra Learning.md",
+    "Life Knowledge/Summary Writing.md",
+    "Diary/Daily/2023-05-04.md",
+    "Diary/Daily/2023-05-03.md",
+    "Diary/Daily/2023-05-02.md",
+    "Diary/Daily/2023-05-01.md",
+    "Research Work/Research Paper.md",
+    "Diary/Daily/2023-04-29.md",
+    "Diary/Daily/2023-04-30.md",
+    "Basics of Python with Data Structures and Algorithms/01 Recursion 1.md",
+    "Basics of Python with Data Structures and Algorithms/02 Recursion 2.md",
+    "Basics of Python with Data Structures and Algorithms/06 OOPS 3.md",
+    "Diary/Daily/2023-04-28.md",
+    "Diary/Daily/2023-04-27.md",
+    "Diary/Daily/2023-04-26.md",
+    "Images/photo-1513735718075-2e2d37cb7cc1.jpg",
+    "Context/spacesLastSync.log"
+  ]
+}

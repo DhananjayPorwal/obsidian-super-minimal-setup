@@ -1,0 +1,6 @@
+.workspace-tab-header[data-type="file-explorer"] {
+    display: none;
+}
+.workspace-tab-header-container:has(.workspace-tab-header[data-type="file-explorer"]) {
+    display: none;
+}

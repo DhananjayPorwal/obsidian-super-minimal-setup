@@ -1,0 +1,13 @@
+.view-content .kanban-plugin::after {
+  content: "";
+  position: fixed;
+  background-image: url(https://images.unsplash.com/photo-1681697390349-ce67ad7014e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(1px) brightness(70%) saturate(100%);
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}

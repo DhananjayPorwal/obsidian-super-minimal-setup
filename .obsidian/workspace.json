@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "5c1e7e7e2614379b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0858471ce58de43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b69f2493d8a0545c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo's.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff1a784143837a41",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ca3ff029c4b541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4797e7906361a453",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d8f3007e924ee8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6c69ecb70fd6106",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "486d584fe075a4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae5e2fcf9d19446",
+        "type": "tabs",
+        "dimension": 36.28219484882419,
+        "children": [
+          {
+            "id": "2d3c10b1857b9c9b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "417cec8d2b4fb3b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ToDo's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e61d181bbd0bec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ToDo's.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "049ce2febd250e6a",
+        "type": "tabs",
+        "dimension": 36.39417693169093,
+        "children": [
+          {
+            "id": "8199907ef0ae7fea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ToDo's.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "81deb772ae7b5bc9",
+        "type": "tabs",
+        "dimension": 27.32362821948488,
+        "children": [
+          {
+            "id": "8b61e492edf44891",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ToDo's.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2538479160243036,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "3edfc10aee1aaa6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b69f2493d8a0545c",
+  "lastOpenFiles": [
+    "Diary/Daily/2024-09-13.md",
+    "ToDo's.md",
+    "Tracking/Book Reading.md",
+    "Diary/Daily/2024-09-12.md",
+    "Tracking/Study.md",
+    "Home.md",
+    "README.md",
+    "Book Summaries/80000 Hours.md",
+    "Life Knowledge/Complete OOP Python.md",
+    "Tracking/Running.md",
+    "Vision Goals.md",
+    "Zerodha.md",
+    "Selenium.md",
+    "Routine.md",
+    "R Programming For Begineers.md",
+    "Interview Preparations.md",
+    "Diary/Daily/2024-09-11.md",
+    "Diary/Daily/2024-09-10.md",
+    "Diary/Daily/2024-09-09.md",
+    "Diary/Daily/2024-09-08.md",
+    "Untitled.canvas",
+    "Data Structures & Algorithms Essentials/04 Basic Sorting Algorithms.md",
+    "Life Knowledge/A Micro-Course on Productivity.md",
+    "minimalist-homepage.md",
+    "Job Journey.md",
+    "Diary/Daily/2024-09-07.md",
+    "Diary/Daily/2024-09-06.md",
+    "Pasted Image 20240825152154_080.png",
+    "Images/Pasted Image 20240825152634_977.png",
+    "Images/Pasted Image 20240825152516_978.png",
+    "Images/Pasted Image 20240825152154_080.png",
+    "Images/Pasted Image 20240824165357_777.png",
+    "Images/Pasted Image 20240824164735_831.png",
+    "Images/Pasted Image 20240824164439_830.png",
+    "Images/Pasted Image 20240824164153_832.png",
+    "Images/Pasted Image 20240824163829_830.png",
+    "Images/Pasted Image 20240824163542_527.png",
+    "Excalidraw/Securities Market",
+    "Excalidraw",
+    "Tags",
+    "Source Code/Remove_Learn_about_this_picture_desktop_icon.zip",
+    "Source Code/Add_Learn_about_this_picture_desktop_icon.zip",
+    "Source Code/Conversation-Vulnerability Report.pdf",
+    "Source Code/Vulnerability Report.pdf",
+    "Source Code/SE Interview Questions.pdf",
+    "Source Code/Python Interview Questions.pdf",
+    "Source Code/OS Interview Questions.pdf",
+    "Introspection/GetAJob.canvas",
+    "Library.canvas"
+  ]
+}

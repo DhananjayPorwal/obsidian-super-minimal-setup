@@ -1,0 +1,2 @@
+body { --file-line-width: 75%; }
+.markdown-source-view.mod-cm6.is-readable-line-width :is(.cm-line, .cm-content) { max-width: 100%; }
