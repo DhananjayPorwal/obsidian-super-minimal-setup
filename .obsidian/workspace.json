@@ -11,17 +11,12 @@
             "id": "b69f2493d8a0545c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
                 "file": "ToDo's.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -197,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +206,8 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b69f2493d8a0545c",

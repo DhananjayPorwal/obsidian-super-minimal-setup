@@ -21,13 +21,6 @@ sticker: 2764-fe0f-200d-1f525
 
 ## Archive
 
-- [ ] Tea Purchase
-- [ ] [[Productive VS Code]]
-- [ ] [[MongoDB]]
-- [ ] [[Data Structure and Algorithm using Python]]
-- [ ] [[Yam Niyam]]
-- [ ] [[JavaScript]]
-- [ ] [[ChatGPT Prompt Engineering for Developers]]
 
 %% kanban:settings
 ```
