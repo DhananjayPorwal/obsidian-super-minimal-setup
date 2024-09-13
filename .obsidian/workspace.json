@@ -13,14 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo's.md",
+                "file": "Diary/Daily/2024-09-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe75d137d57464dd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo's.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b69f2493d8a0545c",
+  "active": "fe75d137d57464dd",
   "lastOpenFiles": [
     "Diary/Daily/2024-09-13.md",
     "ToDo's.md",
