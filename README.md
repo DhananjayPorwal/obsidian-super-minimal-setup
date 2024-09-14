@@ -32,12 +32,15 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 
 # 🎨 CSS Snippets
 
-1. Custom CSS for Admonition Plugin.
+1. Custom Width for page.
 2. Custom Icon for new tab.
-3. Custom Width for page.
+3. Custom CSS for Admonition Plugin.
 4. Custom Background for Kanban Plugin.
+5. CSS to add scrollbars to overflowing Obsidian slides
 
 # 📝 Usage
+
+1. Can Add Movies 
 
 # 🧩 Plugins
 
