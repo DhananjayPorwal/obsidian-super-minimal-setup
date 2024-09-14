@@ -19,8 +19,8 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 | [Git](obsidian://show-plugin?id=obsidian-git) | [Homepage](obsidian://show-plugin?id=homepage) | [Hotkeys++](obsidian://show-plugin?id=hotkeysplus-obsidian) |
 | [Iconize](obsidian://show-plugin?id=obsidian-icon-folder) | [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) [Kanban](obsidian://show-plugin?id=kanban) |
 | [LanguageTool Integration]() | [Latex Suite]() | [Minimal Theme Settings]() |
-| [Outliner]() | [Periodic Notes]() | [QuickAdd]() |
-| [Tracker]() | [Various Complements](obsidian://show-plugin?id=various-complements) |  |
+| [Outliner]() | [Periodic Notes]() | [QuickAdd](obsidian://show-plugin?id=quickadd) |
+| [Smart Typography](obsidian://show-plugin?id=obsidian-smart-typography)| [Tracker](obsidian://show-plugin?id=obsidian-tracker) | [Various Complements](obsidian://show-plugin?id=various-complements) |
 
 # Credits
 
