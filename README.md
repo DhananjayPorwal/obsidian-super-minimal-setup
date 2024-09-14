@@ -17,6 +17,7 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 3. Extract the contents of the zip file.
 4. Open the extracted folder in your Obsidian vault.
 5. Configure the following plugins:
+    - [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) : Need to add your Imgur Client ID.
     
 
 # 🌆 Showcase
