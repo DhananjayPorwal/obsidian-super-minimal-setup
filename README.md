@@ -1,1 +1,2 @@
 # obsidian-minimal-setup
+

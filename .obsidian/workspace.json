@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "762dd1413ac56d04",
+        "id": "534bbe69f4d769b8",
         "type": "tabs",
         "children": [
           {
-            "id": "46132d5631de5163",
+            "id": "dfba1c87abf8a617",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "873dadd144a1a75c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -148,6 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +211,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "873dadd144a1a75c",
+  "active": "dfba1c87abf8a617",
   "lastOpenFiles": [
     "ToDo's.md",
     "Diary/Daily/2024-09-13.md",
