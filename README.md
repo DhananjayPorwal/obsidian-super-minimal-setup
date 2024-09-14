@@ -10,10 +10,11 @@
 A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it right away. This setup includes a clean and simple theme, a few plugins, and some useful CSS snippets.
 
 # Plugins
+    
+| |   | |
+|---|---| --- |
+|a  |b  | c  |
 
-|Name|Name|
-|---|---|
-|a|b|
 
 
 # Credits
