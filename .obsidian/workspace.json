@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e543051eeac54e36",
+        "id": "25ec38f55565fcfc",
         "type": "tabs",
         "children": [
           {
-            "id": "751512a6b229a75f",
+            "id": "4bfbe89a224fc8a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "486d584fe075a4c9",
@@ -193,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +210,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "751512a6b229a75f",
+  "active": "4bfbe89a224fc8a5",
   "lastOpenFiles": [
-    "ToDo's.md",
     "README.md",
+    "ToDo's.md",
     "Images/obsidian-icon.png",
     "Images/obsidian-icon (1).png",
     "Diary/Daily/2024-09-13.md",
