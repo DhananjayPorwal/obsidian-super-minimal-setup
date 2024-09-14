@@ -6,11 +6,18 @@
 
 </center>
 
-# Introduction 
+# 👋 Introduction
 
 A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it right away. This setup includes a clean and simple theme, a few plugins, and some useful CSS snippets.
 
-# Plugins
+# 📦 Installation
+
+1. Download and install [Obsidian](https://obsidian.md/).
+2. Download the latest release of this repository.
+3. Extract the contents of the zip file.
+
+
+# 🧩 Plugins
 
 | Name                                                                               |                                                                                                              |                                                                               |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -23,7 +30,7 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 | [Outliner](obsidian://show-plugin?id=obsidian-outliner)                            | [Periodic Notes](obsidian://show-plugin?id=periodic-notes)                                                   | [QuickAdd](obsidian://show-plugin?id=quickadd)                                |
 | [Smart Typography](obsidian://show-plugin?id=obsidian-smart-typography)            | [Tracker](obsidian://show-plugin?id=obsidian-tracker)                                                        | [Various Complements](obsidian://show-plugin?id=various-complements)          |
 
-# Credits
+# 🫂 Credits
 
 - [Obsidian Note Taking](https://obsidian.md/)
 - [Obsidian Community Forum](https://forum.obsidian.md/)
