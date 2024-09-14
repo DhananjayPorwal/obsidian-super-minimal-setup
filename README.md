@@ -35,6 +35,7 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 1. Custom CSS for Admonition Plugin.
 2. Custom Icon for new tab.
 3. Custom Width for page.
+4. Custom Background for Kanban Plugin.
 
 # 📝 Usage
 

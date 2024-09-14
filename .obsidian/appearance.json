@@ -17,8 +17,7 @@
     "custom-admonitions.1e1ff4",
     "dotted-top-bottom-callout",
     "dropdown-menu-callout",
-    "kanbanBack",
-    "file-exploror-tab-hider"
+    "kanbanBack"
   ],
   "cssTheme": "Minimal",
   "translucency": true,
