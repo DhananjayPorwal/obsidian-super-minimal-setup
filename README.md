@@ -17,7 +17,7 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 | [Book Search](obsidian://show-plugin?id=obsidian-book-search-plugin) | [Calendar](obsidian://show-plugin?id=calendar) | [Code Block](obsidian://show-plugin?id=code-block-plugin) |
 | [Commander](obsidian://show-plugin?id=commander) | [Dataview](obsidian://show-plugin?id=dataview) |  [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin) |
 | [Git](obsidian://show-plugin?id=obsidian-git) | [Homepage](obsidian://show-plugin?id=homepage) | [Hotkeys++](obsidian://show-plugin?id=hotkeysplus-obsidian) |
-| [Iconize]() | []
+| [Iconize](obsidian://show-plugin?id=obsidian-icon-folder) | [LanguageTool Integration]() [Kanban](obsidian://show-plugin?id=kanban) |
 
 
 
