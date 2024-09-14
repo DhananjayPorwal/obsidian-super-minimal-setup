@@ -13,7 +13,8 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 
 |Name |   | |
 |---|---| --- |
-|[Admonition](https://github.com/javalent/admonitions)  |[Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)  | c  |
+|[Admonition](obsidian://show-plugin?id=obsidian-admonition)  |[Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)  | [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian)  |
+|
 
 
 
