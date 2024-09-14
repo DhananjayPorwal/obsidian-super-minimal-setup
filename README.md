@@ -6,7 +6,7 @@
 
 # 👋 Introduction
 
-Get started with Obsidian effortlessly with this minimal setup. It features a clean, simple theme, essential plugins, and handy CSS snippets, allowing you to dive straight into note-taking without any distractions.
+Get started with Obsidian effortlessly with this super minimal setup. It features a clean, simple theme, essential plugins, and handy CSS snippets, allowing you to dive straight into note-taking without any distractions.
 
 # 🌆 Showcase
 
