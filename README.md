@@ -13,9 +13,9 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 # 📦 Installation
 
 1. Download and install [Obsidian](https://obsidian.md/).
-2. Download the latest release of this repository.
+2. Get the latest release of this repository.
 3. Extract the contents of the zip file.
-
+4. Open the extracted folder in your Obsidian vault.
 
 # 🧩 Plugins
 
