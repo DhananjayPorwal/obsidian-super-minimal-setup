@@ -11,12 +11,17 @@
             "id": "dfba1c87abf8a617",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "ToDo's.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -95,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ToDo's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ToDo's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ToDo's.md"
               }
             }
           }
@@ -148,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "ToDo's.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,12 +216,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4797e7906361a453",
+  "active": "dfba1c87abf8a617",
   "lastOpenFiles": [
-    "Images/obsidian-icon.png",
-    "Images/obsidian-icon (1).png",
     "README.md",
     "ToDo's.md",
+    "Images/obsidian-icon.png",
+    "Images/obsidian-icon (1).png",
     "Diary/Daily/2024-09-13.md",
     "Tracking/Book Reading.md",
     "Diary/Daily/2024-09-12.md",
@@ -249,7 +254,6 @@
     "Images/Pasted Image 20240824164735_831.png",
     "Images/Pasted Image 20240824164439_830.png",
     "Images/Pasted Image 20240824164153_832.png",
-    "Images/Pasted Image 20240824163829_830.png",
     "Excalidraw/Securities Market",
     "Excalidraw",
     "Tags",

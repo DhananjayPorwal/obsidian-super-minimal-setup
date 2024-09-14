@@ -16,6 +16,8 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 2. Get the latest release of this repository.
 3. Extract the contents of the zip file.
 4. Open the extracted folder in your Obsidian vault.
+5. Configure the following plugins:
+    
 
 # 🌆 Showcase
 
