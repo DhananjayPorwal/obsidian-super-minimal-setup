@@ -1,10 +1,8 @@
-<center>
+<h1 align="center">Obsidian Minimal Setup</h1>
 
-# Obsidian Minimal Setup
-
-![obsidian-icon](Images/obsidian-icon.png)
-
-</center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/DhananjayPorwal/obsidian-minimal-setup/main/Images/obsidian-icon.png" height="130" width="130"/>
+</p>
 
 # 👋 Introduction
 
@@ -12,7 +10,11 @@ Get started with Obsidian effortlessly with this minimal setup. It features a cl
 
 # 🌆 Showcase
 
-![obsidian-showcase-video](Images/obsidian-showcase-video.gif)
+<!-- ![obsidian-showcase-video](Images/obsidian-showcase-video.gif) -->
+
+<video>
+  <source src="Images/obsidian-showcase-video.mp4" type="video/mp4">
+</video>
 
 # 📦 Installation
 
@@ -38,7 +40,7 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 
 # 🧩 Plugins
 
-| Name                                                                               |                                                               |                                                                               |
+<!-- | Name                                                                               |                                                               |                                                                               |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Admonition](obsidian://show-plugin?id=obsidian-admonition)                        | [Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)  | [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian)            |
 | [Book Search](obsidian://show-plugin?id=obsidian-book-search-plugin)               | [Calendar](obsidian://show-plugin?id=calendar)                | [Code Block](obsidian://show-plugin?id=code-block-plugin)                     |
@@ -47,7 +49,59 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 | [Iconize](obsidian://show-plugin?id=obsidian-icon-folder)                          | [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin)      | [Kanban](obsidian://show-plugin?id=obsidian-kanban)                           |
 | [LanguageTool Integration](obsidian://show-plugin?id=obsidian-languagetool-plugin) | [Latex Suite](obsidian://show-plugin?id=obsidian-latex-suite) | [Minimal Theme Settings](obsidian://show-plugin?id=obsidian-minimal-settings) |
 | [Outliner](obsidian://show-plugin?id=obsidian-outliner)                            | [Periodic Notes](obsidian://show-plugin?id=periodic-notes)    | [QuickAdd](obsidian://show-plugin?id=quickadd)                                |
-| [Smart Typography](obsidian://show-plugin?id=obsidian-smart-typography)            | [Tracker](obsidian://show-plugin?id=obsidian-tracker)         | [Various Complements](obsidian://show-plugin?id=various-complements)          |
+| [Smart Typography](obsidian://show-plugin?id=obsidian-smart-typography)            | [Tracker](obsidian://show-plugin?id=obsidian-tracker)         | [Various Complements](obsidian://show-plugin?id=various-complements)          | -->
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-admonition">Admonition</a></td>
+      <td><a href="obsidian://show-plugin?id=advanced-canvas">Advanced Canvas</a></td>
+      <td><a href="obsidian://show-plugin?id=table-editor-obsidian">Advanced Tables</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-book-search-plugin">Book Search</a></td>
+      <td><a href="obsidian://show-plugin?id=calendar">Calendar</a></td>
+      <td><a href="obsidian://show-plugin?id=code-block-plugin">Code Block</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=cmdr">Commander</a></td>
+      <td><a href="obsidian://show-plugin?id=dataview">Dataview</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-excalidraw-plugin">Excalidraw</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-git">Git</a></td>
+      <td><a href="obsidian://show-plugin?id=homepage">Homepage</a></td>
+      <td><a href="obsidian://show-plugin?id=hotkeysplus-obsidian">Hotkeys++</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-icon-folder">Iconize</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-imgur-plugin">Imgur</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-kanban">Kanban</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-languagetool-plugin">LanguageTool Integration</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-latex-suite">Latex Suite</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-minimal-settings">Minimal Theme Settings</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-outliner">Outliner</a></td>
+      <td><a href="obsidian://show-plugin?id=periodic-notes">Periodic Notes</a></td>
+      <td><a href="obsidian://show-plugin?id=quickadd">QuickAdd</a></td>
+    </tr>
+    <tr>
+      <td><a href="obsidian://show-plugin?id=obsidian-smart-typography">Smart Typography</a></td>
+      <td><a href="obsidian://show-plugin?id=obsidian-tracker">Tracker</a></td>
+      <td><a href="obsidian://show-plugin?id=various-complements">Various Complements</a></td>
+    </tr>
+  </tbody>
+</table>
 
 # 🫂 Credits
 
