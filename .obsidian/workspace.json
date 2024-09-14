@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "534bbe69f4d769b8",
+        "id": "e543051eeac54e36",
         "type": "tabs",
         "children": [
           {
-            "id": "dfba1c87abf8a617",
+            "id": "751512a6b229a75f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ToDo's.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "486d584fe075a4c9",
@@ -100,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ToDo's.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,7 +140,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ToDo's.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,10 +202,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dfba1c87abf8a617",
+  "active": "751512a6b229a75f",
   "lastOpenFiles": [
-    "README.md",
     "ToDo's.md",
+    "README.md",
     "Images/obsidian-icon.png",
     "Images/obsidian-icon (1).png",
     "Diary/Daily/2024-09-13.md",
