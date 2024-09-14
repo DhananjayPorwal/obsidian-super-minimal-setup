@@ -14,7 +14,8 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 |Name |   | |
 |---|---| --- |
 |[Admonition](obsidian://show-plugin?id=obsidian-admonition)  |[Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)  | [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian)  |
-|
+| [Book Search]() | [Calendar](obsidian://show-plugin?id=calendar) | [Code Block](obsidian://show-plugin?id=code-block-plugin) |
+| [Dataview](obsidian://show-plugin?id=dataview) |
 
 
 
