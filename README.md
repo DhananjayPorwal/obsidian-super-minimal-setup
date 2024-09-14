@@ -45,6 +45,9 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 3. Using Template, can add daily new notes.
 4. Additional shapes in canvas.
 5. Can add tables with advanced features.
+6. Track your goals using Tracker Plugin.
+7. Add code blocks with syntax highlighting.
+8. Add images using Imgur Plugin.
 
 # 🧩 Plugins
 

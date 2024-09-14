@@ -204,10 +204,10 @@
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f0c7084ef412ac41",
