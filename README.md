@@ -10,11 +10,7 @@ Get started with Obsidian effortlessly with this minimal setup. It features a cl
 
 # 🌆 Showcase
 
-<!-- ![obsidian-showcase-video](Images/obsidian-showcase-video.gif) -->
-
-<video>
-  <source src="Images/obsidian-showcase-video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/be915be6-9817-4ceb-a104-2b5f54ab923f
 
 # 📦 Installation
 
@@ -54,9 +50,6 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
