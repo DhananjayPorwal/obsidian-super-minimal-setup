@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/be915be6-9817-4ceb-a104-2b5f54ab923f
 # 📦 Installation
 
 1. Download and install [Obsidian](https://obsidian.md/).
-2. Get the latest release of this repository.
+2. Get the latest release of this [repository](https://github.com/DhananjayPorwal/obsidian-super-minimal-setup/releases/).
 3. Extract the contents of the zip file.
 4. Open the extracted folder in your Obsidian vault.
 5. Configure the following plugins:
