@@ -8,7 +8,11 @@
 
 # 👋 Introduction
 
-A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it right away. This setup includes a clean and simple theme, a few plugins, and some useful CSS snippets.
+Get started with Obsidian effortlessly with this minimal setup. It features a clean, simple theme, essential plugins, and handy CSS snippets, allowing you to dive straight into note-taking without any distractions.
+
+# 🌆 Showcase
+
+![obsidian-showcase-video](Images/obsidian-showcase-video.gif)
 
 # 📦 Installation
 
@@ -22,7 +26,15 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
    - [QuickAdd](obsidian://show-plugin?id=quickadd) : Need to add your QuickAdd settings.
      - `QuickAdd Settings` -> `Manage Macros` -> `Configure` -> Click on `⚙️` _(1. movies)_ -> _Add your API Key_
 
-# 🌆 Showcase
+# 🎨 Theme
+
+The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a clean, minimalistic theme that is easy on the eyes and provides a distraction-free environment for note-taking.
+
+![Minimal Theme](https://publish-01.obsidian.md/access/342b33803baa5ad0055c9141648edad3/Images/minimal-variants.png)
+
+# 🎨 CSS Snippets
+
+# 📝 Usage
 
 # 🧩 Plugins
 
