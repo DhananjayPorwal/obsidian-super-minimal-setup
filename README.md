@@ -1,7 +1,7 @@
-# obsidian-minimal-setup
-
 <center>
 
-![obsidian-icon](Images/obsidian-icon.png)
+# Obsidian Minimal Setup
 
+![obsidian-icon](Images/obsidian-icon.png)
 </center>
+
