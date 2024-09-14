@@ -47,7 +47,8 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 5. Can add tables with advanced features.
 6. Track your goals using Tracker Plugin.
 7. Add code blocks with syntax highlighting.
-8. Add images using Imgur Plugin.
+8. Add images using Imgur Plugin (No need to store it offline).
+9. Auto backup on GitHub using Git Plugin.
 
 # 🧩 Plugins
 
