@@ -33,7 +33,8 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 # 🎨 CSS Snippets
 
 1. Custom CSS for Admonition Plugin.
-2. 
+2. Custom Icon for new tab.
+3. Custom Width for page.
 
 # 📝 Usage
 
