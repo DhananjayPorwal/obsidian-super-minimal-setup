@@ -12,6 +12,7 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 
 # Credits
 
-- [Obsidian](https://obsidian.md/)
-- [Obsidian Forum](https://forum.obsidian.md/)
-- [Obsidian Plugin Authors](https://publish.obsidian.md/)
+- [Obsidian Note Taking](https://obsidian.md/)
+- [Obsidian Community Forum](https://forum.obsidian.md/)
+- [Obsidian Plugin Authors](https://obsidian.md/plugins)
+- [Obsidian Theme Creators](https://minimal.guide/home)
