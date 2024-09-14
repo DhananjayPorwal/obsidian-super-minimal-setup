@@ -20,7 +20,7 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 | [Iconize](obsidian://show-plugin?id=obsidian-icon-folder) | [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) [Kanban](obsidian://show-plugin?id=kanban) |
 | [LanguageTool Integration]() | [Latex Suite]() | [Minimal Theme Settings]() |
 | [Outliner]() | [Periodic Notes]() | [QuickAdd]() |
-| [Outliner]() | [Various Complements]() | [Tracker]() |
+| [Tracker]() | [Various Complements](obsidian://show-plugin?id=various-complements) |  |
 
 # Credits
 
