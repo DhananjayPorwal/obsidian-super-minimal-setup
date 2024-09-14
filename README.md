@@ -15,8 +15,9 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 |---|---| --- |
 |[Admonition](obsidian://show-plugin?id=obsidian-admonition)  |[Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)  | [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian)  |
 | [Book Search](obsidian://show-plugin?id=obsidian-book-search-plugin) | [Calendar](obsidian://show-plugin?id=calendar) | [Code Block](obsidian://show-plugin?id=code-block-plugin) |
-| [Commander](obsidian://show-plugin?id=commander) | [Dataview](obsidian://show-plugin?id=dataview) |  [Excalidraw]() |
-| [Git]() | [Homepage]() | [Hotkeys++]() |
+| [Commander](obsidian://show-plugin?id=commander) | [Dataview](obsidian://show-plugin?id=dataview) |  [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin) |
+| [Git](obsidian://show-plugin?id=obsidian-git) | [Homepage](obsidian://show-plugin?id=homepage) | [Hotkeys++](obsidian://show-plugin?id=hotkeysplus-obsidian) |
+| [Iconize]() | []
 
 
 
