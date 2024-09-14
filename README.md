@@ -19,7 +19,8 @@ A minimal setup for [Obsidian](https://obsidian.md/), so you can start using it 
 5. Configure the following plugins:
     - [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) : Need to add your Imgur Client ID.
     - [LanguageTool Integration](obsidian://show-plugin?id=obsidian-languagetool-plugin) : Need to add your LanguageTool API Key.
-    - 
+    - [QuickAdd](obsidian://show-plugin?id=quickadd) : Need to add your QuickAdd settings.
+        - QuickAdd Settings -> Manage Macros -> 
 
 # 🌆 Showcase
 
