@@ -40,7 +40,9 @@ The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a 
 
 # 📝 Usage
 
-1. Can Add Movies 
+1. Can Add Movies using QuickAdd Plugin.
+2. Can Add Books using Book Plugin.
+3. Using Template, can add daily new notes.
 
 # 🧩 Plugins
 
