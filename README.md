@@ -1,4 +1,4 @@
-<h1 align="center">Obsidian Minimal Setup</h1>
+<h1 align="center">Obsidian Super Minimal Setup</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/DhananjayPorwal/obsidian-minimal-setup/main/Images/obsidian-icon.png" height="130" width="130"/>
