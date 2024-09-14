@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/be915be6-9817-4ceb-a104-2b5f54ab923f
 
 The theme used in this setup is [Minimal Theme](https://minimal.guide). It is a clean, minimalistic theme that is easy on the eyes and provides a distraction-free environment for note-taking.
 
-![Minimal Theme](https://publish-01.obsidian.md/access/342b33803baa5ad0055c9141648edad3/Images/minimal-variants.png)
+![Minimal Theme](Images/obsidian-minimal-theme-showcase.png)
 
 # 🎨 CSS Snippets
 
